@@ -33,4 +33,4 @@ Each test took the abosulte value of a negative number looping from -1 to -1,000
 
 **Conclusion**
 
-If you know the number is negative, it seems to be best to multiple by negative one to get the absolute value. But in the end, it is such a miniscule difference and Math.abs is much more readable.
+If you know the number is negative, it seems to be best to multiply by negative one to get the absolute value. But in the end, it is such a miniscule difference and Math.abs is much more readable.
