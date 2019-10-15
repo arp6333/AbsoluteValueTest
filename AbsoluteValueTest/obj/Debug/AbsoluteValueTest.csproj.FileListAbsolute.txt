@@ -1,0 +1,6 @@
+C:\Users\200415835\Documents\AbsoluteValueTest\AbsoluteValueTest\AbsoluteValueTest\bin\Debug\AbsoluteValueTest.exe.config
+C:\Users\200415835\Documents\AbsoluteValueTest\AbsoluteValueTest\AbsoluteValueTest\bin\Debug\AbsoluteValueTest.exe
+C:\Users\200415835\Documents\AbsoluteValueTest\AbsoluteValueTest\AbsoluteValueTest\bin\Debug\AbsoluteValueTest.pdb
+C:\Users\200415835\Documents\AbsoluteValueTest\AbsoluteValueTest\AbsoluteValueTest\obj\Debug\AbsoluteValueTest.csprojResolveAssemblyReference.cache
+C:\Users\200415835\Documents\AbsoluteValueTest\AbsoluteValueTest\AbsoluteValueTest\obj\Debug\AbsoluteValueTest.exe
+C:\Users\200415835\Documents\AbsoluteValueTest\AbsoluteValueTest\AbsoluteValueTest\obj\Debug\AbsoluteValueTest.pdb
