@@ -1,7 +1,9 @@
 **Absolute Value Test**
+
 A program to test the speeds of various methods to get the absolute value of a number in C#.
 
 **Results**
+
 The results were quite conclusive. I performed 3 tests:
 
 1. Math.Abs
@@ -30,4 +32,5 @@ Each test took the abosulte value of a negative number looping from -1 to -1,000
 ![Results](../master/media/absolutevaluetest.PNG)
 
 **Conclusion**
+
 If you know the number is negative, it seems to be best to multiple by negative one to get the absolute value. But in the end, it is such a miniscule difference and Math.abs is much more readable.
