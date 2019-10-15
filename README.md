@@ -1,6 +1,6 @@
 **Absolute Value Test**
 
-A program to test the speeds of various methods to get the absolute value of a number in C#.
+The AbsoluteValueTest is a program to test the speeds of various methods to get the absolute value of a number in C#.
 
 **Results**
 
