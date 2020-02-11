@@ -4,7 +4,7 @@ The AbsoluteValueTest is a program to test the speeds of various methods to get 
 
 **Results**
 
-The results were quite conclusive. I performed 3 tests:
+I performed 3 tests:
 
 1. Math.Abs
    
@@ -27,7 +27,7 @@ if (i < 0)
 }
 ```
 
-Each test took the abosulte value of a negative number looping from -1 to -1,000,000. The tests ran 1,000 times and the elapsed time to create each absolute value was averaged for the result. The results were consistently: Math.abs ~= 3.2ms, *-1 ~= 1ms, *-1 with negative check ~= 2ms.
+Each test took the abosolute value of a negative number looping from -1 to -1,000,000. The tests ran 1,000 times and the elapsed time to create each absolute value was averaged for the result. The results were consistently: Math.abs ~= 3.2ms, *-1 ~= 1ms, *-1 with negative check ~= 2ms.
 
 ![Results](../master/media/absolutevaluetest.PNG)
 
