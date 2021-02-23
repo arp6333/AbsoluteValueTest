@@ -27,7 +27,7 @@ if (i < 0)
 }
 ```
 
-Each test took the abosolute value of a negative number looping from -1 to -1,000,000. The tests ran 1,000 times and the elapsed time to create each absolute value was averaged for the result. The results were consistently: Math.abs ~= 3.2ms, *-1 ~= 1ms, *-1 with negative check ~= 2ms.
+Each test took the absolute value of a negative number looping from -1 to -1,000,000. The tests ran 1,000 times and the elapsed time to create each absolute value was averaged for the result. The results were consistently: Math.abs ~= 3.2ms, *-1 ~= 1ms, *-1 with negative check ~= 2ms.
 
 ![Results](../master/media/absolutevaluetest.PNG)
 
